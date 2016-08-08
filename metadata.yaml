@@ -1,0 +1,46 @@
+_repo: The-Legends-of-King-Arthur-and-His-Knights_12753
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Speed, Lancelot
+    birthdate: 1860
+    deathdate: 1931
+    gutenberg_agent_id: '9847'
+    url: http://www.gutenberg.org/2009/agents/9847
+    wikipedia: http://en.wikipedia.org/wiki/Lancelot_Speed
+creator:
+  authors:
+  - agent_name: Knowles, James, Sir
+    alias: Knowles, James Thomas, Sir
+    birthdate: 1831
+    deathdate: 1908
+    gutenberg_agent_id: '4874'
+    url: http://www.gutenberg.org/2009/agents/4874
+    wikipedia: http://en.wikipedia.org/wiki/James_Knowles
+  - agent_name: Malory, Thomas, Sir
+    deathdate: 1471
+    gutenberg_agent_id: '573'
+    url: http://www.gutenberg.org/2009/agents/573
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Malory
+description: Considered to be the most accurate and well known original story of King
+  Arthur and the Knights of the Round table. -Amazon.com.
+gutenberg_bookshelf:
+- Fantasy
+- Arthurian Legends
+gutenberg_issued: '2004-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12753'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Knights and knighthood -- Folklore'
+- !lcsh 'Arthurian romances -- Adaptations'
+- !lcc 'PN'
+- !lcsh 'Folklore -- England'
+- !lcsh 'Arthur, King -- Legends'
+- GITenberg
+title: The Legends of King Arthur and His Knights
+url: http://www.gutenberg.org/ebooks/12753
